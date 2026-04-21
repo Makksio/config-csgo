@@ -1,1 +1,1 @@
--novid +fps_max 200 -freq 240 -refresh 240 -tickrate 128 +mat_queue_mode 2
+-novid -nojoy -high -3d9ex1 +mat_queue_mode 2 +cl_forcepreload 1 -fullscreen -freq 240 -tickrate 128 -console
